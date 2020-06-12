@@ -1,0 +1,19 @@
+.bg-white{
+	background: #fff;
+}
+
+.umumi-container{
+	padding: 8px 16px;
+}
+ .esas{
+	padding: 32px 16px;
+
+}
+
+ .h3 h3{
+	margin: 10px 0px;
+	padding: 16px 0px;
+	font-size: 1.5rem;
+	font-weight: 500;
+	border-bottom: 1px solid grey;
+}

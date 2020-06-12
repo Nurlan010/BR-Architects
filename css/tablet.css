@@ -1,0 +1,20 @@
+@media(max-width: 768px){
+#navbar{
+	width: 100%;
+}
+#home{
+	position: relative;
+}
+#home .image{
+	position: absolute;
+	left: 550px;
+	top:300px;
+
+}
+
+
+#contact .img3 img{
+	width: 90%;
+}
+
+}
